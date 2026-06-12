@@ -1,0 +1,99 @@
+2026-06-12 15:24:21,421 INFO Job start
+2026-06-12 15:24:21,421 INFO Config loaded: seed=42 window=5 version=v1
+2026-06-12 15:24:21,434 INFO Rows loaded: 10000
+2026-06-12 15:24:21,434 INFO Computing rolling mean
+2026-06-12 15:24:21,437 INFO Generating signal
+2026-06-12 15:24:21,439 INFO Metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 18, 'seed': 42, 'status': 'success'}
+2026-06-12 15:24:21,439 INFO Job end: status=success
+2026-06-12 15:47:45,617 starting job
+2026-06-12 15:47:45,623 reading csv
+2026-06-12 15:47:45,652 job failed
+2026-06-12 15:55:04,711 starting job
+2026-06-12 15:55:04,711 reading csv
+2026-06-12 15:55:04,713 job failed
+2026-06-12 15:55:19,212 starting job
+2026-06-12 15:55:19,292 reading csv
+2026-06-12 15:55:19,344 job finished
+2026-06-12 15:56:49,168 starting job
+2026-06-12 15:56:49,168 reading csv
+2026-06-12 15:56:49,187 job finished
+2026-06-12 16:02:35,751 INFO job started
+2026-06-12 16:02:35,751 INFO loading config: config.yaml
+2026-06-12 16:02:35,751 INFO config loaded: seed=42 window=5 version=v1
+2026-06-12 16:02:35,752 INFO reading csv: data.csv
+2026-06-12 16:02:35,767 INFO csv loaded: rows=10000 columns=['timestamp', 'open', 'high', 'low', 'close', 'volume_btc', 'volume_usd']
+2026-06-12 16:02:35,767 INFO computing rolling mean: window=5
+2026-06-12 16:02:35,769 INFO generating binary signal
+2026-06-12 16:02:35,771 INFO writing metrics json: metrics.json
+2026-06-12 16:02:35,772 INFO metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 18, 'seed': 42, 'status': 'success'}
+2026-06-12 16:02:35,772 INFO job finished
+2026-06-12 16:03:47,975 INFO job started
+2026-06-12 16:03:47,975 INFO loading config: config.yaml
+2026-06-12 16:03:47,975 INFO config loaded: seed=42 window=5 version=v1
+2026-06-12 16:03:47,976 INFO reading csv: data.csv
+2026-06-12 16:03:47,989 INFO csv loaded: rows=10000 columns=['timestamp', 'open', 'high', 'low', 'close', 'volume_btc', 'volume_usd']
+2026-06-12 16:03:47,990 INFO computing rolling mean: window=5
+2026-06-12 16:03:47,991 INFO generating binary signal
+2026-06-12 16:03:47,993 INFO writing metrics json: metrics.json
+2026-06-12 16:03:47,993 INFO metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 16, 'seed': 42, 'status': 'success'}
+2026-06-12 16:03:47,993 INFO job finished
+2026-06-12 16:26:08,927 INFO job started
+2026-06-12 16:26:08,927 INFO loading config: config.yaml
+2026-06-12 16:26:08,928 INFO config loaded: seed=42 window=5 version=v1
+2026-06-12 16:26:08,928 INFO reading csv: data.csv
+2026-06-12 16:26:08,943 INFO csv loaded: rows=10000 columns=['timestamp', 'open', 'high', 'low', 'close', 'volume_btc', 'volume_usd']
+2026-06-12 16:26:08,943 INFO computing rolling mean: window=5
+2026-06-12 16:26:08,944 INFO generating binary signal
+2026-06-12 16:26:08,946 INFO writing metrics json: metrics.json
+2026-06-12 16:26:08,947 INFO metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 17, 'seed': 42, 'status': 'success'}
+2026-06-12 16:26:08,947 INFO job finished
+2026-06-12 16:44:15,006 INFO job started
+2026-06-12 16:44:15,006 INFO loading config: config.yaml
+2026-06-12 16:44:15,007 INFO config loaded: seed=42 window=5 version=v1
+2026-06-12 16:44:15,007 INFO reading csv: data.csv
+2026-06-12 16:44:15,022 INFO csv loaded: rows=10000 columns=['timestamp', 'open', 'high', 'low', 'close', 'volume_btc', 'volume_usd']
+2026-06-12 16:44:15,022 INFO computing rolling mean: window=5
+2026-06-12 16:44:15,023 INFO generating binary signal
+2026-06-12 16:44:15,025 INFO writing metrics json: metrics.json
+2026-06-12 16:44:15,026 INFO metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 17, 'seed': 42, 'status': 'success'}
+2026-06-12 16:44:15,026 INFO job finished
+2026-06-12 16:55:36,843 INFO job started
+2026-06-12 16:55:36,843 INFO loading config: config.yaml
+2026-06-12 16:55:36,844 INFO config loaded: seed=42 window=5 version=v1
+2026-06-12 16:55:36,844 INFO reading csv: data.csv
+2026-06-12 16:55:36,878 INFO csv loaded: rows=10000 columns=['timestamp', 'open', 'high', 'low', 'close', 'volume_btc', 'volume_usd']
+2026-06-12 16:55:36,878 INFO computing rolling mean: window=5
+2026-06-12 16:55:36,886 INFO generating binary signal
+2026-06-12 16:55:36,897 INFO writing metrics json: metrics.json
+2026-06-12 16:55:36,898 INFO metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 44, 'seed': 42, 'status': 'success'}
+2026-06-12 16:55:36,898 INFO job finished
+2026-06-12 16:58:44,519 INFO job started
+2026-06-12 16:58:44,527 INFO loading config: config.yaml
+2026-06-12 16:58:44,596 INFO config loaded: seed=42 window=5 version=v1
+2026-06-12 16:58:44,597 INFO reading csv: data.csv
+2026-06-12 16:58:44,913 INFO csv loaded: rows=10000 columns=['timestamp', 'open', 'high', 'low', 'close', 'volume_btc', 'volume_usd']
+2026-06-12 16:58:44,914 INFO computing rolling mean: window=5
+2026-06-12 16:58:44,925 INFO generating binary signal
+2026-06-12 16:58:44,935 INFO writing metrics json: metrics.json
+2026-06-12 16:58:44,935 INFO metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 407, 'seed': 42, 'status': 'success'}
+2026-06-12 16:58:44,936 INFO job finished
+2026-06-12 17:07:01,147 INFO job started
+2026-06-12 17:07:01,147 INFO loading config: config.yaml
+2026-06-12 17:07:01,148 INFO config loaded: seed=42 window=5 version=v1
+2026-06-12 17:07:01,148 INFO reading csv: data.csv
+2026-06-12 17:07:01,168 INFO csv loaded: rows=10000 columns=['timestamp', 'open', 'high', 'low', 'close', 'volume_btc', 'volume_usd']
+2026-06-12 17:07:01,169 INFO computing rolling mean: window=5
+2026-06-12 17:07:01,170 INFO generating binary signal
+2026-06-12 17:07:01,174 INFO writing metrics json: metrics.json
+2026-06-12 17:07:01,175 INFO metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 24, 'seed': 42, 'status': 'success'}
+2026-06-12 17:07:01,175 INFO job finished
+2026-06-12 17:13:54,362 INFO job started
+2026-06-12 17:13:54,362 INFO loading config: config.yaml
+2026-06-12 17:13:54,363 INFO config loaded: seed=42 window=5 version=v1
+2026-06-12 17:13:54,363 INFO reading csv: data.csv
+2026-06-12 17:13:54,381 INFO csv loaded: rows=10000 columns=['timestamp', 'open', 'high', 'low', 'close', 'volume_btc', 'volume_usd']
+2026-06-12 17:13:54,381 INFO computing rolling mean: window=5
+2026-06-12 17:13:54,383 INFO generating binary signal
+2026-06-12 17:13:54,386 INFO writing metrics json: metrics.json
+2026-06-12 17:13:54,387 INFO metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 21, 'seed': 42, 'status': 'success'}
+2026-06-12 17:13:54,387 INFO job finished
